@@ -4,6 +4,7 @@ The goal of the first day is to start off simple. Barebone C++ file with makefil
 
 Environment = MacOS
 
-Compile -> $ make
+Example for day1
+Compile part 1-> $ make p1
 Clean -> $ make clean
-Run -> $ ./day1_2015
+Run -> $ ./day1_2015_pt1
